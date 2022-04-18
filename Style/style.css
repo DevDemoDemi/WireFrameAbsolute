@@ -1,0 +1,72 @@
+#style {
+    background: #777;
+    color: #ebebeb;
+    text-align: center;
+    margin: 0px;
+}
+
+.contentfill {
+    background: #ebebeb;
+    color: #777;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#headcont {
+    position: absolute;
+    top: 10px;
+    left: 80px;
+    width: 90vw;
+}
+
+#navcont {
+    position: absolute;
+    top: 95px;
+    left: 80px;
+    width: 90vw;
+}
+
+#bodyleft {
+    position: absolute;
+    top: 180px;
+    left: 80px;
+    width: 45vw;
+    height: 40vh;
+}
+
+#bodyarticle {
+    background: #777;
+    color: #ebebeb;
+    width: 40vw;
+    height: 30vh;
+    position: absolute;
+    left: 40px;
+}
+
+#arthead {
+    width: 35vw;
+    position: absolute;
+    left: 40px;
+}
+
+#artp {
+    width: 35vw;
+    position: absolute;
+    left: 40px;
+    bottom: 25px;
+}
+
+#bodyright {
+    position: absolute;
+    top: 180px;
+    right: 80px;
+    width: 44vw;
+    height: 40vh;
+}
+
+#footcont {
+    position: absolute;
+    bottom: 185px;
+    left: 80px;
+    width: 90vw;
+}
